@@ -31,19 +31,19 @@ Stanford, Cardinal, STAN, ACC, 8C1515, 4D4F53, 61, CA, NV.OR.AZ.WA;
 Virginia, Cavaliers, UVA, ACC, 232D4B, F84C1E, 89, VA, MD.NC.PA.WV;
 Virginia Tech, Hokies, VT, ACC, 630031, CF4420, 81, VA, MD.NC.PA.WV;
 Wake Forest, Demon Deacons, WAKE, ACC, 9E7E38, 000000, 82, NC, VA.SC.GA.FL;
-Air Force, Falcons, AFA, American,
-Army, Black Knights, ARMY, American,
-Charlotte, 49ers, CLT, American,
-East Carolina, Pirates, ECU, American,
-Florida Atlantic, Owls, FAU, American,
-Memphis, Tigers, MEM, American,
-Navy, Midshipmen, NAVY, American,
-North Texas, Mean Green, UNT, American,
-Rice, Owls, RICE, American,
-South Florida, Bulls, USF, American,
-Temple, Owls, TEM, American,
-Tulane, Green Wave, TULN, American,
-Tulsa, Golden Hurricane, TLSA, American,
-UAB, Blazers, UAB, American,
-UTSA, Roadrunners, UTSA, American,
-Wichita State, Shockers, WICH, American,
+Air Force, Falcons, AFA, American, 003087, 8A8D8F, 37, CO, UT.TX.AZ.NE;
+Army, Black Knights, ARMY, American, D4BF91, B2B4B3, 29, NY, NJ.PA.CT.MA;
+Charlotte, 49ers, CLT, American, 046A38, B9975B, 44, NC, VA.SC.GA.FL;
+East Carolina, Pirates, ECU, American, 592A8A, FDC82F, 34, NC, VA.SC.GA.FL;
+Florida Atlantic, Owls, FAU, American, 003366, CC0000, 54, FL, GA.AL.SC.LA;
+Memphis, Tigers, MEM, American, 003087, 898D8D, 82, TN, KY.NC.GA.AL;
+Navy, Midshipmen, NAVY, American, 00205B, C5B783, 37, MD, VA.PA.NJ.NC;
+North Texas, Mean Green, UNT, American, 00853E, 000000, 57, TX, LA.OK.CA.AR;
+Rice, Owls, RICE, American, 00205B, C1C6C8, 34, TX, LA.OK.CA.AR;
+South Florida, Bulls, USF, American, 006747, CFC493, 44, FL, GA.AL.SC.LA;
+Temple, Owls, TEM, American, 9D2235, FFFFFF, 48, PA, NJ.NY.OH.MD;
+Tulane, Green Wave, TULN, American, 006747, 418FDE, 47, LA, TX.MS.AL.FL;
+Tulsa, Golden Hurricane, TLSA, American, 002D72, C8102E, 45, OK, TX.AR.MO.KS;
+UAB, Blazers, UAB, American, 006341, CC8A00, 44, AL, MS.LA.FL.TN;
+UTSA, Roadrunners, UTSA, American, F15A22, 0C2340, 32, TX, LA.OK.CA.AR;
+Wichita State, Shockers, WICH, American, FFCD00, 000000, 82, KS, MO.TX.OK.NE;
