@@ -47,51 +47,51 @@ Tulsa, Golden Hurricane, TLSA, American, 002D72, C8102E, 45, OK, TX.AR.MO.KS;
 UAB, Blazers, UAB, American, 006341, CC8A00, 44, AL, MS.LA.FL.TN;
 UTSA, Roadrunners, UTSA, American, F15A22, 0C2340, 32, TX, LA.OK.CA.AR;
 Wichita State, Shockers, WICH, American, FFCD00, 000000, 82, KS, MO.TX.OK.NE;
-Arizona, Wildcats, ARIZ, Big 12, CC0033, 003366, 93, AZ,
-Arizona State, Sun Devils, ASU, Big 12, 8C1D40, FFC627, 60, AZ,
-Baylor, Bears, BAY, Big 12, 154734, FFB81C, 93, TX,
-BYU, Cougars, BYU, Big 12, 0062B8, FFFFFF, 82, UT,
-Cincinnati, Bearcats, CIN, Big 12, E00122, 000000, 78, OH,
-Colorado, Buffaloes, COLO, Big 12, CFB87C, 000000, 74, CO,
-Houston, Cougars, HOU, Big 12, C8102E, FFFFFF, 93, TX,
-Iowa State, Cyclones, ISU, Big 12, C8102E, F1BE48, 89, IA,
-Kansas, Jayhawks, KU, Big 12, 0051BA, E8000D, 95, KS,
-Kansas State, Wildcats, KSU, Big 12, 512888, D1D1D1, 85, KS,
-Oklahoma State, Cowboys, OKST, Big 12, FF7300, 000000, 79, OK,
-TCU, Horned Frogs, TCU, Big 12, 4D1979, FFFFFF, 77, TX,
-Texas Tech, Red Raiders, TTU, Big 12, CC0000, 000000, 86, TX,
-UCF, Knights, UCF, Big 12, BA9B37, 000000, 61, FL,
-Utah, Utes, UTAH, Big 12, CC0000, 808080, 82, UT,
-West Virginia, Mountaineers, WVU, Big 12, 002855, EAAA00, 82, WV,
-Boston College, Eagles, BC, Big East, 98002E, BC9B6A, 59, MA,
-Butler, Bulldogs, BUT, Big East, 13294B, 747678, 80, IN,
-Creighton, Bluejays, CREI, Big East, 005CA9, C8C8C8, 86, NE,
-Dayton, Flyers, DAY, Big East, CE1141, 004B8D, 62, OH,
-DePaul, Blue Demons, DEP, Big East, 005EB8, E4002B, 51, IL,
-Georgetown, Hoyas, GTWN, Big East, 041E42, 8D817B, 70, DC,
-Marquette, Golden Eagles, MARQ, Big East, 003366, FFCC00, 82, WI,
-Notre Dame, Fighting Irish, ND, Big East, 0C2340, C99700, 80, IN,
-Providence, Friars, PROV, Big East, 000000, FFFFFF, 79, RI,
-Rutgers, Scarlet Knights, RUTG, Big East, CC0033, 5F6A72, 52, NJ,
-Seton Hall, Pirates, HALL, Big East, 004488, A2AAAD, 82, NJ,
-St. John's, Red Storm, SJU, Big East, BA0C2F, 041C2C, 76, NY,
-Syracuse, Orange, SYR, Big East, F76900, 000E54, 82, NY,
-UConn, Huskies, CONN, Big East, 000E2F, FFFFFF, 95, CT,
-Villanova, Wildcats, VILL, Big East, 00205B, FFFFFF, 88, PA,
-Xavier, Musketeers, XAV, Big East, 0C2340, 9EA2A2, 82, OH,
-Illinois, Fighting Illini, ILL, Big Ten, 13294B, E84A27, 92, IL,
-Indiana, Hoosiers, IU, Big Ten, 990000, EEEDEB, 92, IN,
-Iowa, Hawkeyes, IOWA, Big Ten, FFCD00, 000000, 82, IA,
-Michigan, Wolverines, MICH, Big Ten, 00274C, FFCB05, 86, MI,
-Michigan State, Spartans, MSU, Big Ten, 18453B, FFFFFF, 91, MI,
-Minnesota, Golden Gophers, MINN, Big Ten, 7A0019, FFCC33, 72, MN,
-Nebraska, Cornhuskers, NEB, Big Ten, E41C38, FFFFFF, 70, NE,
-Northwestern, Wildcats, NU, Big Ten, 4E2A84, FFFFFF, 51, IL,
-Ohio State, Buckeyes, OSU, Big Ten, BB0000, 666666, 82, OH,
-Oregon, Ducks, ORE, Big Ten, 154733, FEE123, 85, OR,
-Penn State, Nittany Lions, PSU, Big Ten, 041E42, FFFFFF, 57, PA,
-Purdue, Boilermakers, PUR, Big Ten, CEB888, 000000, 95, IN,
-UCLA, Bruins, UCLA, Big Ten, 2D68C4, F2A900, 92, CA,
-USC, Trojans, USC, Big Ten, 990000, FFC72C, 81, CA,
-Washington, Huskies, WASH, Big Ten, 4B2E83, B7A57A, 64, WA,
-Wisconsin, Badgers, WIS, Big Ten, C5050C, FFFFFF, 87, WI,
+Arizona, Wildcats, ARIZ, Big 12, CC0033, 003366, 93, AZ, NV.CA.TX;
+Arizona State, Sun Devils, ASU, Big 12, 8C1D40, FFC627, 60, AZ, NV.CA.TX;
+Baylor, Bears, BAY, Big 12, 154734, FFB81C, 93, TX, LA.OK.CA.AR;
+BYU, Cougars, BYU, Big 12, 0062B8, FFFFFF, 82, UT, NV.AZ.CO.ID;
+Cincinnati, Bearcats, CIN, Big 12, E00122, 000000, 78, OH, MI.KY.PA.WV;
+Colorado, Buffaloes, COLO, Big 12, CFB87C, 000000, 74, CO, UT.TX.AZ.NE;
+Houston, Cougars, HOU, Big 12, C8102E, FFFFFF, 93, TX, LA.OK.CA.AR;
+Iowa State, Cyclones, ISU, Big 12, C8102E, F1BE48, 89, IA, NE.IL.MN.WI;
+Kansas, Jayhawks, KU, Big 12, 0051BA, E8000D, 95, KS, MO.TX.OK.NE;
+Kansas State, Wildcats, KSU, Big 12, 512888, D1D1D1, 85, KS, MO.TX.OK.NE;
+Oklahoma State, Cowboys, OKST, Big 12, FF7300, 000000, 79, OK, TX.AR.MO.KS;
+TCU, Horned Frogs, TCU, Big 12, 4D1979, FFFFFF, 77, TX, LA.OK.CA.AR;
+Texas Tech, Red Raiders, TTU, Big 12, CC0000, 000000, 86, TX, LA.OK.CA.AR;
+UCF, Knights, UCF, Big 12, BA9B37, 000000, 61, FL, GA.AL.SC.LA;
+Utah, Utes, UTAH, Big 12, CC0000, 808080, 82, UT, NV.AZ.CO.ID;
+West Virginia, Mountaineers, WVU, Big 12, 002855, EAAA00, 82, WV, OH.PA.KY.VA;
+Boston College, Eagles, BC, Big East, 98002E, BC9B6A, 59, MA, CT.NY.NJ.RI;
+Butler, Bulldogs, BUT, Big East, 13294B, 747678, 80, IN, OH.KY.IL.MI;
+Creighton, Bluejays, CREI, Big East, 005CA9, C8C8C8, 86, NE, KS.IA.MO.CO;
+Dayton, Flyers, DAY, Big East, CE1141, 004B8D, 62, OH, MI.KY.PA.WV;
+DePaul, Blue Demons, DEP, Big East, 005EB8, E4002B, 51, IL, IN.IA.WI.MO;
+Georgetown, Hoyas, GTWN, Big East, 041E42, 8D817B, 70, DC, MD.VA.PA.NJ.NY;
+Marquette, Golden Eagles, MARQ, Big East, 003366, FFCC00, 82, WI, MN.IL.IA.MI;
+Notre Dame, Fighting Irish, ND, Big East, 0C2340, C99700, 80, IN, OH.KY.IL.MI;
+Providence, Friars, PROV, Big East, 000000, FFFFFF, 79, RI, MA.CT.NY.NJ;
+Rutgers, Scarlet Knights, RUTG, Big East, CC0033, 5F6A72, 52, NJ, NY.PA.CT.DE;
+Seton Hall, Pirates, HALL, Big East, 004488, A2AAAD, 82, NJ, NY.PA.CT.DE;
+St. John's, Red Storm, SJU, Big East, BA0C2F, 041C2C, 76, NY, NJ.PA.CT.MA;
+Syracuse, Orange, SYR, Big East, F76900, 000E54, 82, NY, NJ.PA.CT.MA;
+UConn, Huskies, CONN, Big East, 000E2F, FFFFFF, 95, CT, NY.NJ.MA;
+Villanova, Wildcats, VILL, Big East, 00205B, FFFFFF, 88, PA, NJ.NY.OH.MD;
+Xavier, Musketeers, XAV, Big East, 0C2340, 9EA2A2, 82, OH, MI.KY.PA.WV;
+Illinois, Fighting Illini, ILL, Big Ten, 13294B, E84A27, 92, IL, IN.IA.WI.MO;
+Indiana, Hoosiers, IU, Big Ten, 990000, EEEDEB, 92, IN, OH.KY.IL.MI;
+Iowa, Hawkeyes, IOWA, Big Ten, FFCD00, 000000, 82, IA, NE.IL.MN.WI;
+Michigan, Wolverines, MICH, Big Ten, 00274C, FFCB05, 86, MI, OH.IN.IL.KY;
+Michigan State, Spartans, MSU, Big Ten, 18453B, FFFFFF, 91, MI, OH.IN.IL.KY;
+Minnesota, Golden Gophers, MINN, Big Ten, 7A0019, FFCC33, 72, MN, WI.IA.ND.IL;
+Nebraska, Cornhuskers, NEB, Big Ten, E41C38, FFFFFF, 70, NE, KS.IA.MO.CO;
+Northwestern, Wildcats, NU, Big Ten, 4E2A84, FFFFFF, 51, IL, IN.IA.WI.MO;
+Ohio State, Buckeyes, OSU, Big Ten, BB0000, 666666, 82, OH, MI.KY.PA.WV;
+Oregon, Ducks, ORE, Big Ten, 154733, FEE123, 85, OR, WA.CA.ID.NV;
+Penn State, Nittany Lions, PSU, Big Ten, 041E42, FFFFFF, 57, PA, NJ.NY.OH.MD;
+Purdue, Boilermakers, PUR, Big Ten, CEB888, 000000, 95, IN, OH.KY.IL.MI;
+UCLA, Bruins, UCLA, Big Ten, 2D68C4, F2A900, 92, CA, NV.OR.AZ.WA;
+USC, Trojans, USC, Big Ten, 990000, FFC72C, 81, CA, NV.OR.AZ.WA;
+Washington, Huskies, WASH, Big Ten, 4B2E83, B7A57A, 64, WA, OR.CA.ID.NV;
+Wisconsin, Badgers, WIS, Big Ten, C5050C, FFFFFF, 87, WI, MN.IL.IA.MI;
