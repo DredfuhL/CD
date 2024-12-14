@@ -207,19 +207,19 @@ Tennessee, Volunteers, TENN, SEC, FF8200, FFFFFF, 51, TN, KY.NC.GA.AL;
 Texas, Longhorns, TEX, SEC, BF5700, FFFFFF, 70, TX, LA.OK.CA.AR;
 Texas A&M, Aggies, TA&M, SEC, 500000, FFFFFF, 48, TX, LA.OK.CA.AR;
 Vanderbilt, Commodores, VAN, SEC, 000000, 866D4B, 43, TN, KY.NC.GA.AL;
-Alabama A&M, Bulldogs, AAMU, SWAC,
-Alabama State, Hornets, ALST, SWAC,
-Alcorn State, Braves, ALCN, SWAC,
-Arkansas-Pine Bluff, Golden Lions, UAPB, SWAC,
-Bethune-Cookman, Wildcats, BCU, SWAC,
-Florida A&M, Rattlers, FAMU, SWAC,
-Grambling, Tigers, GRAM, SWAC,
-Howard, Bison, HOW, SWAC,
-Jackson State, Tigers, JKST, SWAC,
-Mississippi Valley State, Delta Devils, MVSU, SWAC,
-Morgan State, Bears, MORG, SWAC,
-North Carolina A&T, Aggies, NCAT, SWAC,
-Prairie View A&M, Panthers, PV, SWAC,
-South Carolina State, Bulldogs, SCST, SWAC,
-Southern, Jaguars, SOU, SWAC,
-Texas Southern, Tigers, TXSO, SWAC,
+Alabama A&M, Bulldogs, AAMU, SWAC, 660000, FFFFFF, 30, AL, MS.LA.FL.TN;
+Alabama State, Hornets, ALST, SWAC, C99700, 000000, 34, AL, MS.LA.FL.TN;
+Alcorn State, Braves, ALCN, SWAC, CE8E00, 4B306A, 38, MS, LA.AL.AR.TN;
+Arkansas-Pine Bluff, Golden Lions, UAPB, SWAC, EEB310, E31837, 33, AR, LA.TX.OK;
+Bethune-Cookman, Wildcats, BCU, SWAC, F2A900, 6F263D, 33, FL, GA.AL.SC.LA;
+Florida A&M, Rattlers, FAMU, SWAC, EE7624, 1B5633, 35, FL, GA.AL.SC.LA;
+Grambling, Tigers, GRAM, SWAC, EAA921, 000000, 37, LA, TX.MS.AL.FL;
+Howard, Bison, HOW, SWAC, 003A63, E51937, 40, DC, MD.VA.PA.NJ.NY;
+Jackson State, Tigers, JKST, SWAC, 002147, FFFFFF, 40, MS, LA.AL.AR.TN;
+Mississippi Valley State, Delta Devils, MVSU, SWAC, 00703C, E51937, 35, MS, LA.AL.AR.TN;
+Morgan State, Bears, MORG, SWAC, 1B4383, F47937, 38, MD, VA.PA.NJ.NC;
+North Carolina A&T, Aggies, NCAT, SWAC, F3B237, 003D6D, 43, NC, VA.SC.GA.FL;
+Prairie View A&M, Panthers, PV, SWAC, 330066, FFCC33, 36, TX, LA.OK.CA.AR;
+South Carolina State, Bulldogs, SCST, SWAC, 862633, 001A72, 33, SC, NC.GA.FL.TN;
+Southern, Jaguars, SOU, SWAC, 58B6E7, FFCE34, 42, LA, TX.MS.AL.FL;
+Texas Southern, Tigers, TXSO, SWAC, 7C183E, FFFFFF, 45, TX, LA.OK.CA.AR;
