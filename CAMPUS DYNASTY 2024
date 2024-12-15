@@ -239,19 +239,19 @@ Stephen F. Austin, Lumberjacks, SFA, Southland, 613393, FFFFFF, 50, TX, LA.OK.CA
 Texas A&M-Corpus Christi, Islanders, AMCC, Southland, 0067C5, 007F3E, 42, TX, LA.OK.CA.AR;
 UT Arlington, Mavericks, UTA, Southland, F58025, 0064B1, 37, TX, LA.OK.CA.AR;
 UT Rio Grande Valley, Vaqueros, RGV, Southland, FFA300, 0C2340, 30, TX, LA.OK.CA.AR;
-App State, Mountaineers, APP, Sun Belt,
-Arkansas State, Red Wolves, ARST, Sun Belt,
-Coastal Carolina, Chanticleers, CCU, Sun Belt,
-Florida International, Panthers, FIU, Sun Belt,
-Georgia Southern, Eagles, GASO, Sun Belt,
-Georgia State, Panthers, GAST, Sun Belt,
-James Madison, Dukes, JMU, Sun Belt,
-Liberty, Flames, LIB, Sun Belt,
-Louisiana, Ragin' Cajuns, UL, Sun Belt,
-Marshall, Thundering Herd, MRSH, Sun Belt,
-Old Dominion, Monarchs, ODU, Sun Belt,
-South Alabama, Jaguars, USA, Sun Belt,
-Southern Miss, Golden Eagles, USM, Sun Belt,
-Texas State, Bobcats, TXST, Sun Belt,
-Troy, Trojans, TROY, Sun Belt,
-UL Monroe, Warhawks, ULM, Sun Belt,
+App State, Mountaineers, APP, Sun Belt, 222222, FFCC00, 40, NC, VA.SC.GA.FL;
+Arkansas State, Red Wolves, ARST, Sun Belt, CC092F, 000000, 36, AR, LA.TX.OK;
+Coastal Carolina, Chanticleers, CCU, Sun Belt, 006F71, A27752, 38, SC, NC.GA.FL.TN;
+Florida International, Panthers, FIU, Sun Belt, 081E3F, B6862C, 30, FL, GA.AL.SC.LA;
+Georgia Southern, Eagles, GASO, Sun Belt, 011E41, A3AAAE, 37, GA, FL.AL.NC.TN;
+Georgia State, Panthers, GAST, Sun Belt, 0039A6, C60C30, 42, GA, FL.AL.NC.TN;
+James Madison, Dukes, JMU, Sun Belt, 450084, CBB677, 41, VA, MD.NC.PA.WV;
+Liberty, Flames, LIB, Sun Belt, 002D62, C41230, 40, VA, MD.NC.PA.WV;
+Louisiana, Ragin' Cajuns, UL, Sun Belt, CE181E, 0A0203, 45, LA, TX.MS.AL.FL;
+Marshall, Thundering Herd, MRSH, Sun Belt, 00B140, 27251F, 48, WV, OH.PA.KY.VA;
+Old Dominion, Monarchs, ODU, Sun Belt, 003057, 7C878E, 50, VA, MD.NC.PA.WV;
+South Alabama, Jaguars, USA, Sun Belt, 00205B, BF0D3E, 44, AL, MS.LA.FL.TN;
+Southern Miss, Golden Eagles, USM, Sun Belt, 000000, FFAB00, 42, MS, LA.AL.AR.TN;
+Texas State, Bobcats, TXST, Sun Belt, 501214, 8D734A, 38, TX, LA.OK.CA.AR;
+Troy, Trojans, TROY, Sun Belt, 8A2432, B3B5B8, 36, AL, MS.LA.FL.TN;
+UL Monroe, Warhawks, ULM, Sun Belt, 840029, FDB913, 42, LA, TX.MS.AL.FL;
