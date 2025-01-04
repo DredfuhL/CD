@@ -206,7 +206,7 @@ South Carolina, Gamecocks, SC, Southeastern, 73000A, 000000, 57, SC, SC.NC.GA.FL
 Tennessee, Volunteers, TENN, Southeastern, F27D00, FFFFFF, 82, TN, TN.KY.NC.GA.AL;
 Texas, Longhorns, TEX, Southeastern, BF5700, FFFFFF, 86, TX, TX.LA.OK.CA.AR;
 Texas A&M, Aggies, TAMU, Southeastern, 500000, FFFFFF, 61, TX, TX.LA.OK.CA.AR;
-Vanderbilt, Commodores, VAN, Southeastern, 000000, FEEEB6, 59, TN, TN.KY.NC.GA.AL;
+Vanderbilt, Commodores, VAN, Southeastern, 1C1C1C, B49248, 59, TN, TN.KY.NC.GA.AL;
 Alabama A&M, Bulldogs, AAMU, Southwestern Athletic, 61162D, FFFFFF, 36, AL, AL.MS.LA.FL.TN;
 Alabama State, Hornets, ALST, Southwestern Athletic, 000000, C99700, 37, AL, AL.MS.LA.FL.TN;
 Alcorn State, Braves, ALCN, Southwestern Athletic, 512D6D, CC8A00, 49, MS, MS.LA.AL.AR.TN;
@@ -229,7 +229,7 @@ Houston Christian, Huskies, HCU, Southland, 062F87, FA4D09, 35, TX, TX.LA.OK.CA.
 Incarnate Word, Cardinals, UIW, Southland, CB333B, 211E16, 32, TX, TX.LA.OK.CA.AR;
 Lamar, Cardinals, LAM, Southland, D50032, FFFFFF, 48, TX, TX.LA.OK.CA.AR;
 Louisiana Tech, Bulldogs, LT, Southland, 003087, CB333B, 63, LA, LA.TX.MS.AL.FL;
-McNeese, Cowboys, MCN, Southland, 00592B, FFD204, 37, LA, LA.TX.MS.AL.FL;
+McNeese, Cowboys, MCN, Southland, 00477F, FFD520, 37, LA, LA.TX.MS.AL.FL;
 Nicholls, Colonels, NICH, Southland, A6192E, 7C878E, 37, LA, LA.TX.MS.AL.FL;
 New Orleans, Privateers, UNO, Southland, 003366, 666666, 48, LA, LA.TX.MS.AL.FL;
 Northwestern State, Demons, NWST, Southland, 663399, FF6600, 47, LA, LA.TX.MS.AL.FL;
