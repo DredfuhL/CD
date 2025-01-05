@@ -15,7 +15,6 @@ Saint Louis, Billikens, SLU, Atlantic 10, 003DA5, FFFFFF, 60, MO, MO.KS.IL.OK.AR
 St. Bonaventure, Bonnies, SBU, Atlantic 10, 54261A, FFFFFF, 59, NY, NY.NJ.CT.PA.MA.MD;
 VCU, Rams, VCU, Atlantic 10, 000000, F2A900, 67, VA, VA.DC.MD.NC.PA.NJ;
 Vermont, Catamounts, UVM, Atlantic 10, 154734, FFC72C, 15, VT, VT.NY.MA.NH.ME.CT;
-
 California, Golden Bears, CAL, Atlantic Coast, 041E42, FFC72C, 53, CA, CA.TX.AZ.NV.WA.OR;
 Clemson, Tigers, CLEM, Atlantic Coast, F56600, 522D80, 42, SC, SC.NC.GA.FL.AL.TN;
 Duke, Blue Devils, DUKE, Atlantic Coast, 003896, FFFFFF, 92, NC, NC.SC.VA.GA.MD.DC;
@@ -32,7 +31,6 @@ Stanford, Cardinal, STAN, Atlantic Coast, 8C1515, FFFFFF, 61, CA, CA.TX.AZ.NV.WA
 Virginia, Cavaliers, UVA, Atlantic Coast, F84C1E, 232D4B, 74, VA, VA.DC.MD.NC.PA.NJ;
 Virginia Tech, Hokies, VT, Atlantic Coast, 861F41, E5751F, 44, VA, VA.DC.MD.NC.PA.NJ;
 Wake Forest, Demon Deacons, WAKE, Atlantic Coast, CEB888, 2C2A29, 61, NC, NC.SC.VA.GA.MD.DC;
-
 Air Force, Falcons, AFA, American Athletic, 003594, B2B4B2, 35, CO, CO.TX.CA.AZ.UT.KS;
 Army, Black Knights, ARMY, American Athletic, 2C2A29, D3BC8D, 38, NY, NY.NJ.CT.PA.MA.MD;
 Charlotte, 49ers, CLT, American Athletic, 005035, FFFFFF, 50, NC, NC.SC.VA.GA.MD.DC;
@@ -49,7 +47,6 @@ Tulsa, Golden Hurricane, TLSA, American Athletic, D0B787, 003595, 59, OK, OK.TX.
 UAB, Blazers, UAB, American Athletic, 1E6B52, CDC26C, 58, AL, AL.GA.FL.MS.TN.LA;
 UTSA, Roadrunners, UTSA, American Athletic, 0B2240, E14504, 35, TX, TX.LA.OK.CA.FL.AR;
 Wichita State, Shockers, WICH, American Athletic, 27251F, FFCD00, 73, KS, KS.MO.OK.TX.CO.NE;
-
 Arizona, Wildcats, ARIZ, Big 12, BA122B, 002469, 91, AZ, AZ.CA.NV.TX.UT.CO;
 Arizona State, Sun Devils, ASU, Big 12, 7D2248, FFC72C, 59, AZ, AZ.CA.NV.TX.UT.CO;
 Baylor, Bears, BAY, Big 12, 154734, FFB81C, 81, TX, TX.LA.OK.CA.FL.AR;
@@ -66,7 +63,6 @@ Texas Tech, Red Raiders, TTU, Big 12, E90802, 000000, 71, TX, TX.LA.OK.CA.FL.AR;
 UCF, Knights, UCF, Big 12, 000000, BA9B37, 46, FL, FL.GA.TX.AL.LA.NC;
 Utah, Utes, UTAH, Big 12, BE0000, FFFFFF, 69, UT, UT.AZ.NV.CA.CO.ID;
 West Virginia, Mountaineers, WVU, Big 12, EAAA00, 002855, 77, WV, WV.OH.PA.VA.KY.MD;
-
 Boston College, Eagles, BC, Big East, 8C2232, DBCCA6, 54, MA, MA.CT.NY.NJ.RI.PA;
 Butler, Bulldogs, BUT, Big East, 13294B, FFFFFF, 67, IN, IN.IL.OH.KY.MI.TN;
 Creighton, Bluejays, CREI, Big East, 005CA9, FFFFFF, 71, NE, NE.KS.IA.MO.SD.CO;
@@ -83,7 +79,6 @@ Syracuse, Orange, SYR, Big East, F76900, FFFFFF, 88, NY, NY.NJ.CT.PA.MA.MD;
 UConn, Huskies, CONN, Big East, 000E2F, FFFFFF, 95, CT, CT.NY.NJ.MA.PA.RI;
 Villanova, Wildcats, VILL, Big East, 00205B, FFFFFF, 95, PA, PA.NY.NJ.MD.OH.VA;
 Xavier, Musketeers, XAV, Big East, 0C2340, FFFFFF, 76, OH, OH.IN.PA.MI.KY.IL;
-
 Eastern Washington, Eagles, EWU, Big Sky, B7142E, FFFFFF, 15, WA, WA.OR.CA.NV.ID.UT;
 Idaho, Vandals, IDHO, Big Sky, 808080, F1B300, 35, ID, ID.WA.OR.UT.MT.CA;
 Idaho State, Bengals, IDST, Big Sky, F47920, 000000, 15, ID, ID.WA.OR.UT.MT.CA;
@@ -100,7 +95,6 @@ South Dakota, Coyotes, SDAK, Big Sky, CF142B, FFFFFF, 15, SD, SD.MN.ND.NE.IA.WY;
 South Dakota State, Jackrabbits, SDST, Big Sky, 0032A0, FFD100, 15, SD, SD.MN.ND.NE.IA.WY;
 Southern Utah, Thunderbirds, SUU, Big Sky, DB0000, FFFFFF, 15, UT, UT.AZ.NV.CA.CO.ID;
 Weber State, Wildcats, WEB, Big Sky, 492365, FFFFFF, 15, UT, UT.AZ.NV.CA.CO.ID;
-
 Illinois, Fighting Illini, ILL, Big Ten, FF5F05, 13294B, 79, IL, IL.IN.MO.WI.MI.IA;
 Indiana, Hoosiers, IU, Big Ten, 990000, EDEBEB, 91, IN, IN.IL.OH.KY.MI.TN;
 Iowa, Hawkeyes, IOWA, Big Ten, 000000, FCD116, 68, IA, IA.IL.MN.MO.NE.WI;
@@ -117,7 +111,6 @@ UCLA, Bruins, UCLA, Big Ten, 2774AE, F2A900, 95, CA, CA.TX.AZ.NV.WA.OR;
 USC, Trojans, USC, Big Ten, 990000, FFCC00, 72, CA, CA.TX.AZ.NV.WA.OR;
 Washington, Huskies, WASH, Big Ten, 4B2E83, CEB888, 62, WA, WA.OR.CA.NV.ID.UT;
 Wisconsin, Badgers, WIS, Big Ten, C4012F, FFFFFF, 81, WI, WI.MN.IL.MI.IA.IN;
-
 Cal Poly, Mustangs, CP, Big West, 154734, B38F4F, 35, CA, CA.TX.AZ.NV.WA.OR;
 Cal State Bakersfield, Roadrunners, CSUB, Big West, 003594, FFC72C, 36, CA, CA.TX.AZ.NV.WA.OR;
 Cal State Fullerton, Titans, CSUF, Big West, 00244E, FF7900, 44, CA, CA.TX.AZ.NV.WA.OR;
@@ -134,7 +127,6 @@ UC Irvine, Anteaters, UCI, Big West, 0C2340, FFC72C, 44, CA, CA.TX.AZ.NV.WA.OR;
 UC Riverside, Highlanders, UCR, Big West, 003DA5, FFB81C, 35, CA, CA.TX.AZ.NV.WA.OR;
 UC San Diego, Tritons, UCSD, Big West, 182B49, FFCD00, 35, CA,  CA.TX.AZ.NV.WA.OR;
 UC Santa Barbara, Gauchos, UCSB, Big West, 003660, FEBC11, 52, CA, CA.TX.AZ.NV.WA.OR;
-
 Akron, Zips, AKR, Mid-American, 041E42, A89968, 51, OH, OH.IN.PA.MI.KY.IL;
 Ball State, Cardinals, BALL, Mid-American, BA0C2F, FFFFFF, 48, IN, IN.IL.OH.KY.MI.TN;
 Bowling Green, Falcons, BGSU, Mid-American, 4F2C1D, FF7300, 48, OH, OH.IN.PA.MI.KY.IL;
@@ -151,7 +143,6 @@ Toledo, Rockets, TOL, Mid-American, 0B2240, FFCD00, 58, OH, OH.IN.PA.MI.KY.IL;
 Western Kentucky, Hilltoppers, WKU, Mid-American, B01E24, FFFFFF, 70, KY, KY.IN.OH.TN.IL.WV;
 Western Michigan, Broncos, WMU, Mid-American, 532E1F, F1C500, 41, MI, MI.OH.IL.IN.WI.PA;
 Youngstown State, Penguins, YSU, Mid-American, C8333B, FFFFFF, 36, OH, OH.IN.PA.MI.KY.IL;
-
 Belmont, Bruins, BEL, Missouri Valley, 001D54, B21029, 58, TN, TN.GA.KY.AL.MS.NC;
 Bradley, Braves, BRAD, Missouri Valley, A50000, FFFFFF, 64, IL, IL.IN.MO.WI.MI.IA;
 Detroit Mercy, Titans, DETM, Missouri Valley, A6093D, 002D72, 46, MI, MI.OH.IL.IN.WI.PA;
@@ -168,7 +159,6 @@ Southern Illinois, Salukis, SIU, Missouri Valley, 72253D, FFFFFF, 60, IL, IL.IN.
 UIC, Flames, UIC, Missouri Valley, 001E62, D50032, 41, IL, IL.IN.MO.WI.MI.IA;
 UT Arlington, Mavericks, UTA, Missouri Valley, 0064B1, FFFFFF, 49, TX, TX.LA.OK.CA.FL.AR;
 Valparaiso, Beacons, VAL, Missouri Valley, 5C3000, F5B80A, 58, IN, IN.IL.OH.KY.MI.TN;
-
 Bryant, Bulldogs, BRY, Northeast, 231F20, B09863, 36, RI, RI.MA.CT.NY.NJ.PA;
 Central Connecticut, Blue Devils, CCSU, Northeast, 003896, FFFFFF, 36, CT, CT.NY.NJ.MA.PA.RI; 
 Chicago State, Cougars, CHST, Northeast, 006666, FFFFFF, 29, IL, IL.IN.MO.WI.MI.IA;
@@ -185,7 +175,6 @@ Sacred Heart, Pioneers, SHU, Northeast, CE1141, FFFFFF, 36, CT, CT.NY.NJ.MA.PA.R
 Saint Francis, Red Flash, SFPA, Northeast, CF142B, FFFFFF, 39, PA, PA.NY.NJ.MD.OH.VA;
 Stonehill, Skyhawks, STO, Northeast, 582C83, FFFFFF, 29, MA, MA.CT.NY.NJ.RI.PA;
 Wagner, Seahawks, WAG, Northeast, 004331, FFFFFF, 43, NY, NY.NJ.CT.PA.MA.MD;
-
 Austin Peay, Governors, APSU, Ohio Valley, C41E3A, FFFFFF, 48, TN, TN.GA.KY.AL.MS.NC;
 Eastern Illinois, Panthers, EIU, Ohio Valley, 004C97, 75787B, 36, IL, IL.IN.MO.WI.MI.IA;
 Eastern Kentucky, Colonels, EKU, Ohio Valley, 861F41, FFFFFF, 41, KY, KY.IN.OH.TN.IL.WV;
@@ -202,7 +191,6 @@ Tennessee Tech, Golden Eagles, TNTC, Ohio Valley, 4F2984, FFDD00, 41, TN, TN.GA.
 UT Martin, Skyhawks, UTM, Ohio Valley, 0C2340, FF8200, 41, TN, TN.GA.KY.AL.MS.NC;
 West Georgia, Wolves, WGA, Ohio Valley, 0033AB, E60D2E, 29, GA, GA.FL.SC.AL.TN.TX;
 Western Illinois, Leathernecks, WIU, Ohio Valley, 663399, FFCC00, 36, IL, IL.IN.MO.WI.MI.IA;
-
 Boise State, Broncos, BOIS, Pac-12, 0033A0, D64309, 53, ID, ID.WA.OR.UT.MT.CA;
 Colorado State, Rams, CSU, Pac-12, 1E4D2B, C8C372, 53, CO, CO.TX.CA.AZ.UT.KS;
 Fresno State, Bulldogs, FRES, Pac-12, B1102B, 13284C, 56, CA, CA.TX.AZ.NV.WA.OR;
@@ -219,7 +207,6 @@ Utah State, Aggies, USU, Pac-12, 00263A, FFFFFF, 62, UT, UT.AZ.NV.CA.CO.ID;
 UTEP, Miners, UTEP, Pac-12, 041E42, FF8200, 65, TX, TX.LA.OK.CA.FL.AR;
 Washington State, Cougars, WSU, Pac-12, 981E32, 53565A, 48, WA, WA.OR.CA.NV.ID.UT;
 Wyoming, Cowboys, WYO, Pac-12, 492F24, FFC425, 57, WY, WY.CO.MT.SD.UT.NE;
-
 Alabama, Crimson Tide, ALA, Southeastern, 9E1B32, FFFFFF, 66, AL, AL.GA.FL.MS.TN.LA;
 Arkansas, Razorbacks, ARK, Southeastern, A41F35, FFFFFF, 82, AR, AR.TX.LA.TN.OK.MS;
 Auburn, Tigers, AUB, Southeastern, F26522, 0C2340, 69, AL, AL.GA.FL.MS.TN.LA; 
@@ -236,24 +223,22 @@ Tennessee, Volunteers, TENN, Southeastern, F27D00, FFFFFF, 82, TN, TN.GA.KY.AL.M
 Texas, Longhorns, TEX, Southeastern, BF5700, FFFFFF, 86, TX, TX.LA.OK.CA.FL.AR;
 Texas A&M, Aggies, TA&M, Southeastern, 500000, FFFFFF, 61, TX, TX.LA.OK.CA.FL.AR;
 Vanderbilt, Commodores, VAN, Southeastern, 1C1C1C, B49248, 59, TN, TN.GA.KY.AL.MS.NC;
-
-Chattanooga, Mocs, UTC, Southern,
-East Tennessee State, Buccaneers, ETSU, Southern, 00214D, FCC917, 56, TN,
-Elon, Phoenix, ELON, Southern,
-Furman, Paladins, FUR, Southern,
-Kennesaw State, Owls, KENN, Southern, 0B1315, FDBB30, 15, GA,
-Mercer, Bears, MER, Southern, 
-North Carolina A&T, Aggies, NCAT, Southern, 004684, FDB927, 15, NC,
-Samford, Bulldogs, SAM, Southern, 0C2340, BD1F2D, 43, AL,
-The Citadel, Bulldogs, CIT, Southern, 7BADD3, FFFFFF, 15, SC,
-UNC Asheville, Bulldogs, UNCA, Southern, 003DA5, FFFFFF, 15, NC,
-UNC Greensboro, Spartans, UNCG, Southern, 
-UNC Wilmington, Seahawks, UNCW, Southern, 
-VMI, Keydets, VMI, Southern, 
-Western Carolina, Catamounts, WCU, Southern,
-William & Mary, Tribe, W&M, Southern, 115740, B9975B, 15, VA,
-Wofford, Terriers, WOF, Southern, 8A6E4B, 282829, 15, SC,
-
+Chattanooga, Mocs, UTC, Southern, 112E51, FDB736, 15, TN, TN.GA.KY.AL.MS.NC;
+East Tennessee State, Buccaneers, ETSU, Southern, 00214D, FCC917, 56, TN, TN.GA.KY.AL.MS.NC;
+Elon, Phoenix, ELON, Southern, 73000A, B59A57, 15, NC, NC.SC.VA.GA.MD.DC;
+Furman, Paladins, FUR, Southern, 582C83, FFFFFF, 15, SC, SC.NC.GA.FL.AL.TN;
+Kennesaw State, Owls, KENN, Southern, 0B1315, FDBB30, 15, GA, GA.FL.SC.AL.TN.TX;
+Mercer, Bears, MER, Southern, F76800, 222222, 15, GA, GA.FL.SC.AL.TN.TX;
+North Carolina A&T, Aggies, NCAT, Southern, 004684, FDB927, 15, NC, NC.SC.VA.GA.MD.DC;
+Samford, Bulldogs, SAM, Southern, 0C2340, BD1F2D, 43, AL, AL.GA.FL.MS.TN.LA;
+The Citadel, Bulldogs, CIT, Southern, 7BADD3, FFFFFF, 15, SC, SC.NC.GA.FL.AL.TN;
+UNC Asheville, Bulldogs, UNCA, Southern, 003DA5, FFFFFF, 15, NC, NC.SC.VA.GA.MD.DC;
+UNC Greensboro, Spartans, UNCG, Southern, 0F2044, FFB71B, 15, NC, NC.SC.VA.GA.MD.DC;
+UNC Wilmington, Seahawks, UNCW, Southern, 006666, FFFFFF, 15, NC, NC.SC.VA.GA.MD.DC;
+VMI, Keydets, VMI, Southern, AE122A, FFD619, 15, VA, VA.DC.MD.NC.PA.NJ;
+Western Carolina, Catamounts, WCU, Southern, 592C88, C1A875, 15, NC, NC.SC.VA.GA.MD.DC;
+William & Mary, Tribe, W&M, Southern, 115740, B9975B, 15, VA, VA.DC.MD.NC.PA.NJ;
+Wofford, Terriers, WOF, Southern, 8A6E4B, 282829, 15, SC, SC.NC.GA.FL.AL.TN;
 Appalachian State, Mountaineers, APP, Sun Belt, 000000, FFD200, 43, NC, NC.SC.VA.GA.MD.DC;
 Arkansas State, Red Wolves, ARST, Sun Belt, CC092F, 000000, 41, AR, AR.TX.LA.TN.OK.MS;
 Coastal Carolina, Chanticleers, CCU, Sun Belt, 006F71, A27752, 49, SC, SC.NC.GA.FL.AL.TN;
