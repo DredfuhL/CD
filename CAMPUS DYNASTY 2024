@@ -31,7 +31,7 @@ Stanford, Cardinal, STAN, Atlantic Coast, 8C1515, FFFFFF, 72, CA, CA.TX.AZ.NV.WA
 Virginia, Cavaliers, UVA, Atlantic Coast, 232D4B, F84C1E, 85, VA, VA.DC.MD.NC.PA.NJ;
 Virginia Tech, Hokies, VT, Atlantic Coast, 861F41, E5751F, 66, VA, VA.DC.MD.NC.PA.NJ;
 Wake Forest, Demon Deacons, WAKE, Atlantic Coast, 000000, CEB888, 68, NC, NC.SC.VA.GA.MD.DC;
-Air Force, Falcons, AFA, American Athletic, B2B4B2, 003594, 65, CO, CO.TX.CA.AZ.UT.KS;
+Air Force, Falcons, AFA, American Athletic, 003594, B2B4B2, 65, CO, CO.TX.CA.AZ.UT.KS;
 Army, Black Knights, ARMY, American Athletic, 000000, D3BC8D, 60, NY, NY.NJ.CT.PA.MA.MD;
 Charlotte, 49ers, CLT, American Athletic, 005035, A49665, 70, NC, NC.SC.VA.GA.MD.DC;
 East Carolina, Pirates, ECU, American Athletic, 582C83, FFC700, 64, NC, NC.SC.VA.GA.MD.DC;
@@ -44,7 +44,7 @@ South Florida, Bulls, USF, American Athletic, 006747, CFC493, 66, FL, FL.GA.TX.A
 Temple, Owls, TEM, American Athletic, 9D2235, FFFFFF, 83, PA, PA.NY.NJ.MD.OH.VA;
 Tulane, Green Wave, TULN, American Athletic, 006747, 418FDE, 68, LA, LA.TX.MS.AL.FL.AR;
 Tulsa, Golden Hurricane, TLSA, American Athletic, 003595, D0B787, 74, OK, OK.TX.KS.AR.MO.LA;
-UAB, Blazers, UAB, American Athletic, CDC26C, 1E6B52, 80, AL, AL.GA.FL.MS.TN.LA;
+UAB, Blazers, UAB, American Athletic, 1E6B52, CDC26C, 80, AL, AL.GA.FL.MS.TN.LA;
 UTSA, Roadrunners, UTSA, American Athletic, E14504, 0B2240, 62, TX, TX.LA.OK.CA.FL.AR;
 Wichita State, Shockers, WICH, American Athletic, 000000, FFCD00, 85, KS, KS.MO.OK.TX.CO.NE;
 Arizona, Wildcats, ARIZ, Big 12, 002469, BA122B, 92, AZ, AZ.CA.NV.TX.UT.CO;
@@ -90,7 +90,7 @@ Northern Arizona, Lumberjacks, NAU, Big Sky, 002454, FAC01A, 48, AZ, AZ.CA.NV.TX
 Northern Colorado, Bears, UNCO, Big Sky, 013C65, F6B000, 52, CO, CO.TX.CA.AZ.UT.KS;
 Portland State, Vikings, PRST, Big Sky, 213921, FFFFFF, 46, OR, OR.CA.WA.ID.NV.UT;
 Sacramento State, Hornets, SAC, Big Sky, 043927, C4B581, 44, CA, CA.TX.AZ.NV.WA.OR;
-Seattle, Redhawks, SEA, Big Sky, FFFFFF, AA0000, 60, WA, WA.OR.CA.NV.ID.UT;
+Seattle, Redhawks, SEA, Big Sky, AA0000, FFFFFF, 60, WA, WA.OR.CA.NV.ID.UT;
 South Dakota, Coyotes, SDAK, Big Sky, CF142B, FFFFFF, 54, SD, SD.MN.ND.NE.IA.WY;
 South Dakota State, Jackrabbits, SDST, Big Sky, 0032A0, FFD100, 68, SD, SD.MN.ND.NE.IA.WY;
 Southern Utah, Thunderbirds, SUU, Big Sky, DB0000, FFFFFF, 58, UT, UT.AZ.NV.CA.CO.ID;
